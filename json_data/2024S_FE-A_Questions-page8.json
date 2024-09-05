@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "13",
+        "Question": "An operating system adopts the priority scheduling algorithm for scheduling processes. There are five processes A, B, C, D, and E arriving at the same time with estimated running times of 10, 6, 2, 4, and 8 milliseconds, respectively. Their priorities are 8, 5, 2, 1, and 4, where 1 is the highest priority. What is the mean process turnaround time?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "14",
+            "b": "16",
+            "c": "20",
+            "d": "22"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "14",
+        "Question": "Data is continuously stored in the disks of servers from the sending task to the receiving task in the diagram below. When the volume of data sent in a short period is large, congestion occurs due to the difference in server performance. In this case, which of the following buffer sizes cannot reduce congestion and improve throughput? Assume the sending task has a higher transfer speed than the transfer speed of the receiving task, and the data transfer speed is constant.",
+        "With_figure": true,
+        "figure_path": "path_to_diagram",
+        "Choices": {
+            "a": "L < (SR) \u00d7 S",
+            "b": "L = (SR) \u00d7 S",
+            "c": "L > (S - R) \u00d7 S",
+            "d": "L < (S - R) \u00d7 S"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "15",
+        "Question": "Which of the following technologies is commonly used when similar research data is obtained during a data search?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "The technology compares the degrees of similarity by summarizing the research data into keywords.",
+            "b": "The technology calculates the degree of similarity in the ratios for each layer of data embedding, including corrections and weight settings.",
+            "c": "The technology compares the research data on different layers by embedding the data into defined fields, also allowing for structural attributes that are naturally integrated.",
+            "d": "The technology retrieves information by increasing the ratio for keyword searches and preventing omissions in searches by using a list of synonyms and equivalent words."
+        },
+        "Answer": ""
+    }
+]

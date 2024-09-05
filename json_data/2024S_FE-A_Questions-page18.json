@@ -1,0 +1,28 @@
+[
+    {
+        "Number": "45",
+        "Question": "Which of the following is the most appropriate description concerning an interview conducted by a system auditor?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "The administrator of the audited department, who has experience in auditing tasks, is responsible for interviewing.",
+            "b": "The entire interview is conducted by one (1) system auditor, as discrepancies may occur in the results if multiple auditors are involved.",
+            "c": "The system auditor interviews the audited department to take improvement measures for deficiencies and verify correctives when there are findings.",
+            "d": "The system auditor who conducts the audit obtains documents and records that support the information gathered from the interview."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "46",
+        "Question": "Which of the following is a case that enables the customer support operations at a call center to improve the operational structure to raise the resolution of problem or machine learning function to improve the average response rate?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Provide an appropriate response in real time to active regular problems and all shared knowledge without using the operational system offers the shared use function to support all users upon receipt.",
+            "b": "Improve standard operation timing by using machine learning data training based on a pop-up display existing individual questions of customers.",
+            "c": "Investigate the interaction with the support mailbox.",
+            "d": "Exploring the balance between the precision and complexity of responses based on the targeted return time with investigation."
+        },
+        "Answer": ""
+    }
+]

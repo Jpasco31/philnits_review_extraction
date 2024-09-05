@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "Q48",
+        "Question": "Which of the following is an appropriate description of an RFI?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It is a document describing the basic policy for the system, including a summary of the system purpose, necessary functions, system requirements, and contract matters.",
+            "b": "It is a document that is created after an RFP.",
+            "c": "It is a document used by companies looking for the implementation of computerization to request system specifications from prospective suppliers such as system vendors.",
+            "d": "It is a document used to request information concerning computerization from prospective suppliers such as system vendors."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q49",
+        "Question": "Which of the following is a strategy that concentrates resources in the segment of a specific customer or specific product in order to achieve superiority over competitors?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Challenger strategy",
+            "b": "Follower strategy",
+            "c": "Leader strategy",
+            "d": "Focus strategy"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q50",
+        "Question": "Which of the following is an explanation of core competence that is adopted in business administration?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It refers to a qualitative and quantitative understanding of its products, services, and management activities that are established by the company to gain an advantage over competitors.",
+            "b": "It refers to the external management resources that should be significant to giving its products or services a competitive advantage and improving the quality of management for business processes.",
+            "c": "It refers to the management resources owned by the company that contributes to innovations and added value, and serve as joy for the customers.",
+            "d": "It refers to the corporate ability to use new ideas to achieve an improvement in management efficiency and strategic growth."
+        },
+        "Answer": ""
+    }
+]

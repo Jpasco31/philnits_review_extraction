@@ -1,0 +1,35 @@
+[
+    {
+        "Number": "Q42",
+        "Question": "What is the Cost Performance Index (CPI) of the project under the conditions listed below?Project Budget (BAC) 100,000 dollarsProject Duration 4 monthsElapsed Time 1 monthActual Cost (AC) 20,000 dollarsPercent Progress 25%",
+        "Choices": {
+            "a": "0.25",
+            "b": "0.8",
+            "c": "1.0",
+            "d": "1.25"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q43",
+        "Question": "In ITIL 2011 Edition, which of the following is the appropriate order for the service lifecycle stages?",
+        "Choices": {
+            "a": "Service design \u2192 Continual service improvement \u2192 Service strategy \u2192 Service operation \u2192 Service transition",
+            "b": "Service strategy \u2192 Continual service improvement \u2192 Service operation \u2192 Service design \u2192 Service transition",
+            "c": "Service strategy \u2192 Service design \u2192 Service transition \u2192 Service operation \u2192 Continual service improvement",
+            "d": "Continual service improvement \u2192 Service design \u2192 Service operation \u2192 Service transition \u2192 Service strategy"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q44",
+        "Question": "In a system management, which of the following is an activity performed for the management of problems and service requests?",
+        "Choices": {
+            "a": "Reviewing the past trouble records to assess the services against the agreed service targets and performing measures to identify improvement opportunities",
+            "b": "Examining measures wherein the amount of free space in a disk near its threshold",
+            "c": "Investigating the impact of changes made to a program",
+            "d": "Receiving a failure report from a user and checking to see if it corresponds to a known error"
+        },
+        "Answer": ""
+    }
+]

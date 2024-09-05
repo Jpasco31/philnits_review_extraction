@@ -1,0 +1,54 @@
+[
+    {
+        "Number": "1",
+        "Question": "What is the decimal representation of the hexadecimal number 123.4?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "83.25",
+            "b": "83.5",
+            "c": "291.25",
+            "d": "291.5"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "2",
+        "Question": "Five people are sitting at a table in a restaurant. Two of them ordered coffee, and the other three ordered tea. The drinks are served, and the waiter puts the drinks in a random order on the table. What is the probability that every person gets the correct drink?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "1/30",
+            "b": "1/20",
+            "c": "1/10",
+            "d": "1/5"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "3",
+        "Question": "The expression below is represented in postfix (Reverse Polish) notation. What is the resulting value of this expression? (There are no numbers are in decimal, and the symbols '+', '-', '*', and '/' represent addition, subtraction, multiplication, and division operators, respectively.) 5 3 4 + * 2 -",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "5",
+            "b": "18",
+            "c": "21",
+            "d": "27"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "4",
+        "Question": "Which of the following is an appropriate explanation of feedback control?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It performs control in a predetermined order.",
+            "b": "The control amount is increased little by little with the target value.",
+            "c": "It performs without being affected by external factors from affecting the output.",
+            "d": "It performs control without using the output."
+        },
+        "Answer": ""
+    }
+]

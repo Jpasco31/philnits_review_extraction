@@ -1,0 +1,15 @@
+[
+    {
+        "Number": "60",
+        "Question": "When OSS that is released under GPL is modified and distributed, which of the following is an appropriate action to comply with the GPL?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "A recipient who obtains the derivative work must be strictly prohibited from redistributing copies.",
+            "b": "The source code of a separate application that is statically linked to the derivative work does not need to be disclosed.",
+            "c": "When the software is modified and distributed, the source code of the distributed copies is made available to the recipients.",
+            "d": "When the source code of the derivative work is disclosed, compensation such as related costs cannot be demanded."
+        },
+        "Answer": ""
+    }
+]

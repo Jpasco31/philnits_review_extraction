@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "16",
+        "Question": "Which of the following is equivalent to the circuit below?",
+        "With_figure": true,
+        "figure_path": "",
+        "Choices": {
+            "a": "f(x,y,z)",
+            "b": "f(x,y,z)",
+            "c": "f(x,y,z)",
+            "d": "f(x,y,z)"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "17",
+        "Question": "In the process of creating animation, which of the following is used to record the natural movement of objects, humans, and animals by using sensors and video cameras?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Key frame method",
+            "b": "Motion capture",
+            "c": "Modeling method",
+            "d": "Pixel shader"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "18",
+        "Question": "Which of the following is a critical step in creating a relational database?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Building a network diagram",
+            "b": "Designing a flowchart",
+            "c": "Creating entity-relationship diagrams",
+            "d": "Programming in C++"
+        },
+        "Answer": ""
+    }
+]

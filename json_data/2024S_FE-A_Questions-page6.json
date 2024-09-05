@@ -1,0 +1,54 @@
+[
+    {
+        "Number": "Q7",
+        "Question": "How many swaps are required in bubble sort when N elements in the array are already sorted in reverse order?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "N \u00d7 (N-1) \u00f7 2",
+            "b": "N",
+            "c": "N \u00f7 2",
+            "d": "N^2"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q8",
+        "Question": "There are two microprocessors: a 32-bit CPU capable of executing each of 32-bit, 16-bit, and 8-bit long instructions in 1 cycle, and a 16-bit CPU capable of executing each of 16-bit and 8-bit long instructions in 1 cycle. Additionally, the 16-bit CPU can execute a 32-bit instruction by combining 2 cycles. It is assumed that a program's instruction mix is 40% of 16-bit instructions, 40% of 8-bit instructions, and 20% of 32-bit instructions. Which combination of the following costs enables the 16-bit CPU to achieve the same performance as the 32-bit CPU?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "The 16-bit CPU is 22.5% cheaper.",
+            "b": "The 16-bit CPU is 25% cheaper.",
+            "c": "The 16-bit CPU is 27.5% cheaper.",
+            "d": "The 16-bit CPU is 30% cheaper."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q9",
+        "Question": "When an HDD has the specifications below, what is the average access time for an HDD to transfer a file?Path allocation time: 5msAverage seek time: 2msAverage rotational speed: 10,000rpmData transfer rate: 20MB/s",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "23.14ms",
+            "b": "26.67ms",
+            "c": "27.14ms",
+            "d": "30.67ms"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q10",
+        "Question": "Which of the following is the device that can theoretically connect up to 127 peripheral devices, controlled by a PC?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Displayport",
+            "b": "HDMI",
+            "c": "SATA",
+            "d": "USB"
+        },
+        "Answer": ""
+    }
+]

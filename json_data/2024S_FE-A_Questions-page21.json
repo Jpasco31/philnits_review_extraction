@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "Q54",
+        "Question": "A factory manufactures the three products that are shown in the table below. Which of the following is the maximum possible profit in dollars? Here, there is an upper limit to the monthly demand volume for each product. Also, the factory can only use up to 200 hours per month for the manufacturing process and cannot manufacture more than one product in parallel.",
+        "With_figure": true,
+        "figure_path": "",
+        "Choices": {
+            "a": "30,500",
+            "b": "31,500",
+            "c": "33,000",
+            "d": "34,000"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q55",
+        "Question": "Which of the following is an example of Consumer Generated Media (CGM)?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "A website of a company through which a company publishes information for individual investors",
+            "b": "A blog linked to an online shopping site, where consumers write product reviews and assessments from their own perspectives.",
+            "c": "An online supermarket site, linked to mom-and-pop stores across the country, that sells daily necessities and accepts payments.",
+            "d": "A website of a company that releases news announcements, such as the start of new services."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q56",
+        "Question": "Which of the following is the maximum value of Z from the constraints that are shown below?",
+        "With_figure": true,
+        "figure_path": "",
+        "Choices": {
+            "a": "12",
+            "b": "14",
+            "c": "16",
+            "d": "18"
+        },
+        "Answer": ""
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Number": "40",
+        "Question": "Which of the following is the appropriate order of the six phases in the SDLC (Software Development Life Cycle) model?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Requirements Analysis > Design > Programming > Deployment > Testing > Maintenance",
+            "b": "Requirements Analysis > Design > Programming > Testing > Deployment > Maintenance",
+            "c": "Requirements Analysis > Design > Testing > Programming > Deployment > Maintenance",
+            "d": "Requirements Analysis > Testing > Design > Programming > Deployment > Maintenance"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "41",
+        "Question": "The activities and milestones of a project are shown in the arrow diagram below. Which of the following is an appropriate description of the effect if the duration of activity B is increased by 5 days?",
+        "With_figure": true,
+        "figure_path": "path/to/diagram/or/figure",
+        "Choices": {
+            "a": "The earliest start time of activity G is delayed by 5 days.",
+            "b": "The latest start time of activity F is delayed by 5 days.",
+            "c": "The project\u2019s completion time is delayed by 5 days.",
+            "d": "The project\u2019s minimum completion time is increased by 5 days."
+        },
+        "Answer": ""
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "Number": "36",
+        "Question": "Which of the following is the most appropriate description of polymorphism in object-oriented design?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It allows developers to define classes incrementally by reusing classes defined previously as the basis for new classes.",
+            "b": "It allows a class to focus on the important dimensions while ignoring nonessential dimensions.",
+            "c": "It combines processes and data into a single object.",
+            "d": "It is the provision of a single interface to entities of different types."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "37",
+        "Question": "Which of the following is obtained only when the integer value of integer x is 25 \u2264 x \u2264 55?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "24, 25, 49, 50",
+            "b": "25, 49, 50, 55",
+            "c": "26, 49, 50",
+            "d": "25, 49, 50"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "38",
+        "Question": "Which of the following is an appropriate testing type to ensure that the interfaces and linkages between different parts of programs work properly?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Unit test",
+            "b": "Integration test",
+            "c": "Load test",
+            "d": "Regression test"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "39",
+        "Question": "Which of the following is an explanation of the reverse engineering of software?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "The internal structure and content of the existing software is analyzed and understood.",
+            "b": "The software is redesigned and tested.",
+            "c": "The internal structure and content are changed without any change to the externally observable behavior.",
+            "d": "The code used is automatically generated from the design information by a development support tool."
+        },
+        "Answer": ""
+    }
+]

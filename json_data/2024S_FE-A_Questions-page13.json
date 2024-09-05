@@ -1,0 +1,54 @@
+[
+    {
+        "Number": "29",
+        "Question": "Which of the following is a public-key cryptography algorithm whose security depends on the difficulty of factoring extremely large numbers into primes?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "AES",
+            "b": "DH",
+            "c": "DSA",
+            "d": "RSA"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "30",
+        "Question": "Which of the following is the method that is commonly employed to place a malicious website near the top of a search site\u2019s search results?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Cross-site scripting",
+            "b": "DNS cache poisoning",
+            "c": "SEO poisoning",
+            "d": "SQL injection"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "31",
+        "Question": "Which of the following is an explanation of the time stamp service in information security?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "A service that authenticates biometric information, such as fingerprints, voice prints, vein patterns, retina, and iris, by using the date and time when the information is registered in the system.",
+            "b": "A service that stores the date and time data was written securely on a particular date and time and testifies that the data has not been modified since that date and time.",
+            "c": "A service that registers data that includes the registered information and is not falsified using a client's private key, making it impossible to identify the data owner later.",
+            "d": "A service that guarantees the date and time an e-mail is sent and receives an acknowledgment of receipt."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "32",
+        "Question": "Which of the following is an appropriate term for an organized and highly skilled team whose main duties include defending and responding to an organization\u2019s security posture by monitoring, detecting, and analyzing cybersecurity incidents?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Cybersecurity",
+            "b": "Network Operations Center (NOC)",
+            "c": "Incident Management Center (IMC)",
+            "d": "Security Operations Center (SOC)"
+        },
+        "Answer": ""
+    }
+]

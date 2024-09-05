@@ -1,0 +1,28 @@
+[
+    {
+        "Number": "11",
+        "Question": "Which of the following is the design for securing safety and reliability known as \u201cfoolproof\u201d?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "A redundant configuration, such as duplication, can be used so that even when a device failure occurs, the functions of the overall system are not affected.",
+            "b": "Even when the user performs an incorrect operation, a problem does not occur in the system.",
+            "c": "When a device failure occurs, damage can be minimized by enabling the system to stop safely.",
+            "d": "When a device failure occurs, the system runs even if the usable functions are restricted, and the processing efficiency is reduced."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "12",
+        "Question": "There is a system where the operating status is continuously monitored. Which of the following work items is applicable in selecting work items in capacity planning that is conducted when a new job is added to the system after several years of operation?",
+        "With_figure": true,
+        "figure_path": "figure_path_placeholder",
+        "Choices": {
+            "a": "(ii), (iii), (iv)",
+            "b": "(i)(iii), (iv), (ii), (i)",
+            "c": "(iv), (ii), (i), (iii)",
+            "d": "(i)(iv), (ii), (iii)"
+        },
+        "Answer": ""
+    }
+]

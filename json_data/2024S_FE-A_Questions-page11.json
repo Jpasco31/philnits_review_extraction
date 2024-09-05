@@ -1,0 +1,54 @@
+[
+    {
+        "Number": "Q21",
+        "Question": "Which of the following is a clause that is inserted into blank 4 of the SQL statement below that calculates the average scores for each class and subject from the \"MidtermTest\" table and outputs the columns of class and subject?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "GROUP BY Class, Subject, AVG(SCORE) ORDER BY Class, Subject",
+            "b": "SELECT Class, Subject, AVG(SCORE) GROUP BY Class, Subject",
+            "c": "ORDER BY Class, Subject, AVG(SCORE) GROUP BY Class, Subject",
+            "d": "GROUP BY Class, Subject, AVG(SCORE) ORDER BY Class, Subject"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q22",
+        "Question": "Which of the following can change the deadlock state of the transaction back to the normal state?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Commit",
+            "b": "Drop",
+            "c": "Rollback",
+            "d": "Roll Forward"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q23",
+        "Question": "Which of the following devices sends a frame to the destination address based on the address of the destination MAC address in the header of each frame?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Gateway",
+            "b": "Router",
+            "c": "Bridge",
+            "d": "Switching hub"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "Q24",
+        "Question": "Which of the following is the broadcast address of the network 192.168.10.0/23?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "192.168.10.10",
+            "b": "192.168.10.255",
+            "c": "192.168.11.0",
+            "d": "192.168.11.255"
+        },
+        "Answer": ""
+    }
+]

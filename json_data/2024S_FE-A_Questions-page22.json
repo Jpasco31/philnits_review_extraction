@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "57",
+        "Question": "When a company wants to earn a profit of $42,000, which of following is the number of units that the company must sell under the conditions shown in the table below?Unit dollarSelling price per unit: 17Fixed costs: 134,000Interest expense: 10,000Variable costs per unit: 12Cost of sales and administrative expense: 6(Units)",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "14,400",
+            "b": "18,200",
+            "c": "20,800",
+            "d": "26,200"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "58",
+        "Question": "Which of the following is part of total quality management?a) Designing products and services that meet or exceed customers\u2019 expectationsb) Focusing on the appointment of a special committee to ensure employee involvement in a similar environmentc) Prioritizing central decisions rather than empowerment to ensure the quality of products producedd) Maintaining the equal opportunity rather than being competitively involved in a competitive manner",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Designing products and services that meet or exceed customers\u2019 expectations",
+            "b": "Focusing on the appointment of a special committee to ensure employee involvement in a similar environment",
+            "c": "Prioritizing central decisions rather than empowerment to ensure the quality of products produced",
+            "d": "Maintaining the equal opportunity rather than being competitively involved in a competitive manner"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "59",
+        "Question": "When the list price is set to $30, the demand is 0 units.Which of the following represents this demand? the demand represents marginal value to be inserted into blank A below when-The quantity of a product and the demand for the product is defined-When the list price is $15, the demand is ________ A ________units.a) 30,000b) 35,000c) 40,000d) 45,000",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "30,000",
+            "b": "35,000",
+            "c": "40,000",
+            "d": "45,000"
+        },
+        "Answer": ""
+    }
+]

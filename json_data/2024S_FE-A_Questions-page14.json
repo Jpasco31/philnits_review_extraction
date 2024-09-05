@@ -1,0 +1,41 @@
+[
+    {
+        "Number": "33",
+        "Question": "In an OS where permissions for reading, writing, or executing a file can be independently set as attributes of the file, one bit is allocated for each of these three (3) permissions to determine whether they may be performed or not. When these three bits are configured using an octal value from 0 through 7, the trial results below are obtained. Which of the following is an appropriate trial result?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "When 0 is set, reading, writing and execution cannot be performed.",
+            "b": "When 3 is set, reading and writing can be performed, but execution cannot.",
+            "c": "When 5 is set, reading and execution can be performed, but writing cannot.",
+            "d": "When 7 is set, reading, writing and execution can be performed."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "34",
+        "Question": "Which of the following are components of a UML2.x (including 2.0 and later versions) static diagram?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Message and Activity",
+            "b": "Message and Transition",
+            "c": "State and Transition",
+            "d": "State and Activity"
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "35",
+        "Question": "Which of the following is a correct combination of a class and an object in Object-Oriented Design?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "A class is created based on the definition of an object.",
+            "b": "A class is defined as the behavior that an object executes.",
+            "c": "An object is a definition of a class.",
+            "d": "A class stores the actual values of its attributes."
+        },
+        "Answer": ""
+    }
+]

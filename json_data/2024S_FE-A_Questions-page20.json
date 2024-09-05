@@ -1,0 +1,39 @@
+[
+    {
+        "Number": "51",
+        "Question": "Which of the following is an appropriate explanation of telemarketing?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It refers to direct marketing that includes calling people at home and asking for donations, opinions, or purchases.",
+            "b": "It refers to direct marketing that sells products and services and builds customer relationships over the telephone.",
+            "c": "It refers to marketing that sends sales alerts, likes to website updates, announcements, and other items to a person at a regular interval."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "52",
+        "Question": "Which of the following is an appropriate explanation of the technology S curve?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "It describes the diffusion process of a new technology. It shows that the growth rate of the penetration rate is initially low. As these improvements in adopting the technology penetrate the market, the penetration rate steadily increases.",
+            "b": "It represents the maturing process of technology. Its shows that during the time until the diffusion saturates, the diffusion rate slows down.",
+            "c": "It represents the maturing process of technology, and initially, the diffusion rate slows, stagnates. Over time as technology reaches saturation point, the speed gradually increases."
+        },
+        "Answer": ""
+    },
+    {
+        "Number": "53",
+        "Question": "Which of the following is a next-generation computer concept that describes the idea of making direct connections, free from human intervention, between a large number of physically separate devices and networks?",
+        "With_figure": false,
+        "figure_path": "",
+        "Choices": {
+            "a": "Computer networks",
+            "b": "Deep learning",
+            "c": "Internet of things",
+            "d": "Network topology"
+        },
+        "Answer": ""
+    }
+]
